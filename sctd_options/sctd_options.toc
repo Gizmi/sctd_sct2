@@ -3,7 +3,6 @@
 ## Title-ruRU: SCTD для SCT2[Настройки] 
 ## Notes:  Options menu for SCTD (LoadOnDemand)
 ## Notes-ruRU:  Меню настроек для SCTD (LoadOnDemand)
-## Author: Grayhoof
 ## Dependencies: sct2, sctd, sct2_options
 ## LoadOnDemand: 1
 ## LoadWith: sct2_options
